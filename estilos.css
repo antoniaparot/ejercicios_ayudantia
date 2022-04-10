@@ -1,0 +1,59 @@
+
+#cabecera{
+    background: rosybrown;
+}
+
+.destacado{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav ul{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+
+#foto2{
+    position:absolute;
+    bottom: 210px;
+    padding: 10px;
+    
+   
+}
+
+#foto1{
+    float: right;
+}
+
+
+#texto1{
+    background: burlywood;
+    width: 300px;
+    margin: 20px;
+    position: absolute;
+    top:400px;
+}
+
+
+
+#texto3{
+    background: yellowgreen;
+    width: 300px;
+    margin:20px;
+    position: absolute;
+    bottom: 170px;
+    left: 610px;
+    
+
+}
+
+#texto2{
+    font-style: oblique;
+    position: absolute;
+    bottom: 100px;
+    margin: 30px
+
+}
+
